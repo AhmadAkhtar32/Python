@@ -1,3 +1,4 @@
+#finding type of variable
 a = "Ahmad"
 b = 3.90
 
