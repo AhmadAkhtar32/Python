@@ -7,3 +7,6 @@ print(students)
 students [0] = "Usman"
 
 print(students[0])
+
+#lists slicing
+print(students[1:4])
