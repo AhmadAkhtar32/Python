@@ -1,0 +1,1 @@
+#Chapter6 is all about conditions in Python
