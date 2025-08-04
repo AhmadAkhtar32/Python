@@ -1,1 +1,7 @@
-#Chapter6 is all about conditions in Python
+a = int(input("Enter your Age: "))
+
+if (a>=18) : 
+    print("You are eligible!")
+
+else:
+    print("You are not eligible!")
