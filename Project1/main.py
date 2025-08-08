@@ -1,3 +1,5 @@
+#Snake , Water And Gun game in Python
+
 import random
 
 def check_winner(computer, user):
