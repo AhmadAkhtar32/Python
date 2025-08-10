@@ -5,4 +5,5 @@ class Car:
 
 vehicle = Car()
 Car.name = "Civic"
+Car.Company = "Toyota"  # Instance Attribute
 print(Car.name, Car.Company, Car.Price, Car.status)
