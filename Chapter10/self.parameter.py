@@ -1,3 +1,4 @@
+#self parameter
 class Car:
     name = "Civic"
     status = "Available"
