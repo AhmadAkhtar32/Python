@@ -1,3 +1,4 @@
+#Class Methids in Python
 class Employee:
     # Class attribute (shared by all objects)
     company_name = "TechCorp"
