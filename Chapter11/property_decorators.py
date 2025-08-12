@@ -1,3 +1,4 @@
+#property Decorations
 class Employee:
     def __init__(self, name, salary):
         self._name = name       # Convention: _variable means "private" (internal use)
