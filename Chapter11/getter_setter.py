@@ -1,3 +1,4 @@
+#Getter/Setter Method In Python
 class Employee:
     def __init__(self, name, salary):
         self._name = name
