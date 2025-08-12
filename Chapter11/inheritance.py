@@ -1,4 +1,4 @@
-# ------------------------------
+# inheritance In Python
 # Parent Class
 # ------------------------------
 class Vehicle:
