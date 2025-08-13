@@ -1,4 +1,4 @@
-#self parameter
+#self parameter in python
 class Car:
     name = "Civic"
     status = "Available"
