@@ -1,4 +1,6 @@
+#Practice Question
 import os
+
 
 # Step 1: Create a folder for the tables
 folder_name = "Multiplication_Tables"
