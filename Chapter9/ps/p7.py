@@ -1,3 +1,4 @@
+#Practice Question 7
 # File name to check
 filename = "ques6.txt"  # Change this to your actual file name
 
