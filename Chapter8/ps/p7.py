@@ -1,3 +1,4 @@
+#Practice Question 7
 # Function For Removing Word from List
 
 def rem(l, word):
