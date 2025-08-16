@@ -1,3 +1,4 @@
+#Lists Methods
 students = ["Ahmad", "Ali", "Umer", 4 , False]
 
 students.append("Hammad")  #this wil add Hammad at the end of list
