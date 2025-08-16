@@ -1,3 +1,4 @@
+#Tuple methods 
 t = (2, 5, 66, 7, 88, 66)
 
 no = t.count(66)
