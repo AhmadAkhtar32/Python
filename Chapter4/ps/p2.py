@@ -1,3 +1,5 @@
+#Practice Question 2
+
 marks = []
 
 m1 = int(input("Enter the marks of student1: "))
