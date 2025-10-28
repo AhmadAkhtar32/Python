@@ -5,3 +5,7 @@ age = 23
 weight = 62
 
 print("My Name Is:", name , "Age:", age , "Weight:", weight)
+
+print(type(name))
+print(type(age))
+print(type(weight))
