@@ -3,3 +3,5 @@
 name = "Ahmad Akhtar"
 age = 23
 weight = 62
+
+print("My Name Is:", name , "Age:", age , "Weight:", weight)
