@@ -12,3 +12,15 @@ a = None
 print(type(age))
 print(type(old))
 print(type(a))
+
+c = 5 
+d = 10 
+sum = c+d
+print(sum)
+
+# Single Line Comments
+
+"""
+Multi-Line
+Comment
+"""
