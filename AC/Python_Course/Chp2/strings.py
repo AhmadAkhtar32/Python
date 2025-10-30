@@ -2,3 +2,7 @@
 
 #Concatenation
 print("Hello"  +  "Developers")
+
+str1 = "This is the First String"
+
+print(str1)
