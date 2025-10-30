@@ -1,1 +1,4 @@
 #String is data type that stores a sequence of characters.
+
+#Concatenation
+print("Hello"  +  "Developers")
