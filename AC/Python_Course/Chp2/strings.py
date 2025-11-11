@@ -31,3 +31,9 @@ print(str1)
 #sed do eiusmod tempor incididunt
 #ut labore et dolore magna aliqua."""
 #print(a)
+
+
+#Escapesequence Characters ! 
+
+str2 = "This is the use of escape sequence chrs. \nWe are using it to move text to next line"
+print(str2)
