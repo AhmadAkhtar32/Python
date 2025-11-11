@@ -36,4 +36,34 @@ print(str1)
 #Escapesequence Characters ! 
 
 str2 = "This is the use of escape sequence chrs. \nWe are using it to move text to next line"
+str3 = "This is the use of escape sequence chrs. \t We are using it to give big space line"
 print(str2)
+print(str3)
+
+
+# The Process of joining two strings in Python is known as "Concatenation" Nd we use "+" for this
+
+str4 = "This is string 4 \n"
+str5 = "This is string 5."
+str6 = (str4+str5)
+print(str6)
+
+#printing the length of string
+print(len(str6))
+final_str = (str5 + " " + str3)
+print(final_str)
+
+#Accessing a chr in a String using indexing
+a = str5[3]
+print(a)
+print(str4[2])
+
+# Slicing is used for Accessing the parts of String !
+# string_name[starting index : ending index]
+print(str4[0:6])
+print(str4[:6])
+print(str4[6:])
+
+# Negative index while doing slicing in Python 
+str_new = "Islamabad"
+print(str_new[-4: -1])
