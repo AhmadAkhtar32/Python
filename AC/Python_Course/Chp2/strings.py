@@ -67,3 +67,12 @@ print(str4[6:])
 # Negative index while doing slicing in Python 
 str_new = "Islamabad"
 print(str_new[-4: -1])
+
+
+# String functions
+string = "i am a programmer !"   
+print(string.capitalize())                      #Capatilize First chr of string
+print(string.endswith("er !"))                  #returns ture if str ends with er !
+print(string.replace("programmer", "coder"))    #Replaces the word
+print(string.find("p"))                         #Finds the word-index in string
+print(string.count("am"))                       #conut the len of word
