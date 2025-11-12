@@ -7,3 +7,13 @@ if a>b :
     print("A is greater than B")
 elif a ==b:
     print("A is equal to B")
+
+
+#If checks the condition for always , while elif only checks next if condition falls true
+num =int(input("Enter the Number: "))
+if(num>10):
+    print("Entered Number Is Greater Than 10 !")
+elif(num<10):
+    print("Entered Number Is Less Than 10")
+elif(num==10):
+    print("Entered Number Is Equal To 10")
