@@ -20,6 +20,7 @@ else:
     print("Entered Number Is Equal To 10!")
 
 
+#Another Example
 marks = int(input("Enter The Marks: "))
 if marks>=90:
     print("A+ Grade")
@@ -33,3 +34,18 @@ elif marks>= 50:
     print("D Grade")
 else:
     print("Fail")
+
+
+#Nesting in conditional Statements
+number = int(input("Enter The Number: "))
+if(number>0):
+    print("The Number Is Positive !")
+    if number%2 == 0:
+        print("The Number Is Also Even")
+    else:
+        print("The Number Is Also Odd")
+elif number == 0:
+    print("The Number Is Zero !")
+else:
+    print("The number is negative !")
+
