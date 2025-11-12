@@ -24,3 +24,15 @@ elif num2 >= num1 and num2 >= num3:
     print("The greatest number is:", num2)
 else:
     print("The greatest number is:", num3)
+
+
+
+# WAP to check if a number is a multiple of 7 or not
+
+num = int(input("Enter a number: "))
+
+if num % 7 == 0:
+    print("The number is a multiple of 7!")
+else:
+    print("The number is not a multiple of 7!")
+
