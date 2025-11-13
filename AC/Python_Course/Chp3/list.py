@@ -31,5 +31,9 @@ list1.sort(reverse=True)            # Sorts the list in descending order
 print("After sort(reverse=True):", list1)
 list1.reverse()                     # Reverses the list order
 print("After reverse():", list1)
-list1.insert(0 , 6)                 # inserting an element at some index in List
-print("New List After Inserting: ", list1)
+list1.insert(0, 6)                  # Inserts an element at a specific index
+print("New List After Inserting:", list1)
+list1.remove(4)                     # Removes the first occurrence of value 4
+print("After remove(4):", list1)
+list1.pop()                         # Removes the last element from the list
+print("After pop():", list1)
