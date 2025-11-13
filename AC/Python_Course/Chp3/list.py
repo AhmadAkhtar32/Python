@@ -19,3 +19,6 @@ print(slc[1:])
 print(slc[-5:-2])
 
 # Some Methods used in Lits
+list = [2,3,4]
+list.append(5)   # this method adds one element at the end
+list.sort()      # this methos sorts in ascending order
