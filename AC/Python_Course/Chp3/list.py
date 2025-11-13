@@ -16,3 +16,6 @@ slc = [12, 23, 45 ,23 ,23 , 44,43]
 print(slc)
 print(slc[0:4])
 print(slc[1:])
+print(slc[-5:-2])
+
+# Some Methods used in Lits
