@@ -18,7 +18,18 @@ print(slc[0:4])
 print(slc[1:])
 print(slc[-5:-2])
 
-# Some Methods used in Lits
-list = [2,3,4]
-list.append(5)   # this method adds one element at the end
-list.sort()      # this methos sorts in ascending order
+
+
+# Some Methods used in Lists
+list1 = [2, 3, 4]
+print("Original List:", list1)
+list1.append(5)                     # Adds one element at the end
+print("After append(5):", list1)
+list1.sort()                        # Sorts the list in ascending order
+print("After sort():", list1)
+list1.sort(reverse=True)            # Sorts the list in descending order
+print("After sort(reverse=True):", list1)
+list1.reverse()                     # Reverses the list order
+print("After reverse():", list1)
+list1.insert(0 , 6)                 # inserting an element at some index in List
+print("New List After Inserting: ", list1)
