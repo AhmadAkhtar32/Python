@@ -1,4 +1,3 @@
-#WAP To check if a number entered by the user is odd or even
 # WAP to check if a number entered by the user is odd, even, or zero
 
 num0 = int(input("Enter The Number: "))
