@@ -7,4 +7,12 @@ marks = ["Ahmad Rao", 12.34 , 23, 66.25 , True , 34]
 print(marks)
 print(marks[0])      # printing a specific value in List
 
-#Strings are immutable in Python
+#Strings are immutable(That can't be changed) in Python
+#Lists are mutable(That can be changed) in Python
+
+# Slicing is also possible in Lists
+
+slc = [12, 23, 45 ,23 ,23 , 44,43]
+print(slc)
+print(slc[0:4])
+print(slc[1:])
