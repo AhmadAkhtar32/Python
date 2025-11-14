@@ -51,10 +51,6 @@ print(marks)
 my_set = {9, "9.0"}
 print(my_set)  # Output: {9, '9.0'}
 
-# Or use complex numbers
-my_set = {9, 9.0+0j}
-print(my_set)  # Output: {9, (9+0j)}
-
 # Or use tuples
 my_set = {9, (9.0,)}
 print(my_set)  # Output: {9, (9.0,)}
