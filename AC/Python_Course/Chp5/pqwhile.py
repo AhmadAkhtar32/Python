@@ -47,3 +47,6 @@ if found:
     print(y, "is present in the list.")
 else:
     print(y, "is NOT present in the list.")
+
+
+# Continue: terminates execution in the current iteration & continues execution of loop with the next iteration
